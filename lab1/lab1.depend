@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1711007220 source:c:\_local disk d\sda\lab1\main.cpp
+	<iostream>
+	"Matrice.h"
+	"TestExtins.h"
+	"TestScurt.h"
+
+1711483904 source:c:\_local disk d\sda\lab1\app.cpp
+	<iostream>
+	"Matrice.h"
+	"TestExtins.h"
+	"TestScurt.h"
+
+1712208728 c:\_local disk d\sda\lab1\matrice.h
+
+1709793546 source:c:\_local disk d\sda\lab1\src\matrice.cpp
+	"Matrice.h"
+
+1709793546 c:\_local disk d\sda\lab1\include\matrice.h
+
+1712208904 source:c:\_local disk d\sda\lab1\testextins.cpp
+	<assert.h>
+	"Matrice.h"
+	"TestExtins.h"
+	<iostream>
+	<exception>
+
+1709796701 c:\_local disk d\sda\lab1\testextins.h
+
+1711010613 source:c:\_local disk d\sda\lab1\testscurt.cpp
+	"TestScurt.h"
+	<assert.h>
+	"Matrice.h"
+	<iostream>
+
+1709796701 c:\_local disk d\sda\lab1\testscurt.h
+
+1712208718 source:c:\_local disk d\sda\lab1\matrice.cpp
+	"Matrice.h"
+	<iostream>
+	<exception>
+
