@@ -1,0 +1,2 @@
+﻿main.obj : error LNK2005: main already defined in App.obj
+C:\_Local Disk D\sda\sda_lab_6\x64\Debug\sda_lab_6.exe : fatal error LNK1169: one or more multiply defined symbols found
