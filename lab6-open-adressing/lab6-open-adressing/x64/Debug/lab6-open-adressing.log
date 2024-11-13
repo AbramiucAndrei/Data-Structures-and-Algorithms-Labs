@@ -1,0 +1,10 @@
+﻿  IteratorMDO.cpp
+  MDO.cpp
+  TestExtins.cpp
+C:\_Local Disk D\sda\lab6-open-adressing\lab6-open-adressing\MDO.cpp(22,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\_Local Disk D\sda\lab6-open-adressing\lab6-open-adressing\TestExtins.cpp(118,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\_Local Disk D\sda\lab6-open-adressing\lab6-open-adressing\TestExtins.cpp(136,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  TestScurt.cpp
+  main.cpp
+  Generating Code...
+  lab6-open-adressing.vcxproj -> C:\_Local Disk D\sda\lab6-open-adressing\x64\Debug\lab6-open-adressing.exe
