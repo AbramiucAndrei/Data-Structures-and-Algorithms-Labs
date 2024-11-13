@@ -1,0 +1,3 @@
+/Users/mihaiadomnitei/Desktop/lab7/cmake-build-debug/CMakeFiles/lab7.dir
+/Users/mihaiadomnitei/Desktop/lab7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mihaiadomnitei/Desktop/lab7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
